@@ -1,3 +1,5 @@
+7. 	Із заданого рядка символів вилучити слова, довжина яких менша, за вказану користувачем.
+
 #include <iostream>
 #include <string>
 using namespace std;
